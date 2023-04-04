@@ -5,9 +5,8 @@
       "default": true
     }
   ],
-  "name": "vscode",
+  "name": "MyProject",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "56.0",
-  "oauthLocalPort": 1717
+  "sourceApiVersion": "57.0"
 }
